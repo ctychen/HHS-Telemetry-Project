@@ -1,6 +1,6 @@
 ---
 title: Mounting XBees
-parent: Exercises
+parent: Electronics
 has_children: false
 nav_order: 1
 ---
