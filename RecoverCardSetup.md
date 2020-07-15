@@ -33,8 +33,7 @@ Also copy from plex:
 
 
 
-NOW I really need to backup those SD cards, so I found instructions here using Win32DiskImager.exe:
-https://raspberrypihq.com/how-to-backup-your-raspberry-pi/
+NOW I really need to backup those SD cards, so (I found instructions here using Win32DiskImager.exe.)[https://raspberrypihq.com/how-to-backup-your-raspberry-pi/]
 
 To my PC here:
 
