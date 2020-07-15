@@ -33,6 +33,7 @@ Doing a clean install on a Pi Zero
     - Serial
     - Disable login shell
 - Enable Serial port hardware
+```
     pip3 install digi-xbee
     pip3 install pytimeparse
     pip3 install RPI.GPIO
@@ -43,7 +44,7 @@ Doing a clean install on a Pi Zero
     sudo pip3 install adafruit-circuitpython-mma8451
     sudo vi /etc/udev/rules.d/50-usb.rules
     SUBSYSTEM=="tty", ATTRS{idVendor}=="0403", ATTRS{idProduct}=="6001", SYMLINK+="XB0"
-
+```
 
 - This works for both Grove Devel Board and SMD card USB Adapter board
 - Check i2C devices: ```i2cdetect -y 1```
@@ -56,6 +57,7 @@ Doing a clean install on a Pi Zero
 
 
 Additional packages for clean install on ground system Raspberry Pi 3:
+```
     sudo apt-get update
     sudo apt-get install build-essential python-dev python-pip
     sudo apt-get install python-imaging python-smbus
@@ -65,3 +67,4 @@ Additional packages for clean install on ground system Raspberry Pi 3:
     sudo apt-get install sox
     sudo pip install RPi.GPIO
     pip3 install pytimeparse
+```
