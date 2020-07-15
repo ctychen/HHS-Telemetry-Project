@@ -9,7 +9,7 @@ nav_order: 1
 # Mounting XBees on the SMD Devboard
 
 
-![Board](https://raw.githubusercontent.com/670Mustangs/minibots/master/images/smdxbee.png)
+![Board](https://raw.githubusercontent.com/ctychen/HHS-Telemetry-Project/master/images/smdxbee.png)
 
 
 
